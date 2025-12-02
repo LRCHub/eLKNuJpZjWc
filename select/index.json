@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "evolution",
+  "base_artist": "浜崎あゆみ",
+  "createdAt": "2025-12-02T20:30:57.129703Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Proud Evolution",
+      "artist": "Liars",
+      "has_synced": true,
+      "path": "select/01_Proud_Evolution_Liars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "(R) Evolution",
+      "artist": "Hammerfall",
+      "has_synced": true,
+      "path": "select/02_(R)_Evolution_Hammerfall.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Evolution Rush",
+      "artist": "Opus III",
+      "has_synced": true,
+      "path": "select/03_Evolution_Rush_Opus_III.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Evolution",
+      "artist": "Frazier Trill feat. Pi’erre Bourne",
+      "has_synced": true,
+      "path": "select/04_Evolution_Frazier_Trill_feat._Pi’erre_Bourne.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Evolution",
+      "artist": "Frazier Trill",
+      "has_synced": true,
+      "path": "select/05_Evolution_Frazier_Trill.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Re:Evolution",
+      "artist": "The Shamen",
+      "has_synced": true,
+      "path": "select/06_Re_Evolution_The_Shamen.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Re: Evolution (Shamen Vocal Mix) [Edit]",
+      "artist": "The Shamen",
+      "has_synced": false,
+      "path": "select/07_Re__Evolution_(Shamen_Vocal_Mix)_[Edit]_The_Shamen.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Evolution Revolution Love",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/08_Evolution_Revolution_Love_Tricky.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Evolution Revolution Love (Remix)",
+      "artist": "Tricky",
+      "has_synced": false,
+      "path": "select/09_Evolution_Revolution_Love_(Remix)_Tricky.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Evolution Theory",
+      "artist": "Modestep feat. D-Power, Jammin, Jammer & Frisco",
+      "has_synced": true,
+      "path": "select/10_Evolution_Theory_Modestep_feat._D-Power,_Jammin,_Jammer_&_Frisco.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Evolution Theory",
+      "artist": "Modestep, D-Power, Jammin, Jammer & Frisco",
+      "has_synced": true,
+      "path": "select/11_Evolution_Theory_Modestep,_D-Power,_Jammin,_Jammer_&_Frisco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Evolution",
+      "artist": "The Cinematic Orchestra feat. Fontella Bass",
+      "has_synced": true,
+      "path": "select/12_Evolution_The_Cinematic_Orchestra_feat._Fontella_Bass.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Evolution (feat. Fontella Bass)",
+      "artist": "The Cinematic Orchestra",
+      "has_synced": true,
+      "path": "select/13_Evolution_(feat._Fontella_Bass)_The_Cinematic_Orchestra.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Evolution",
+      "artist": "Cat Power",
+      "has_synced": true,
+      "path": "select/14_Evolution_Cat_Power.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "A Small Victory (R-Evolution 23 (Full Moon) mix edit)",
+      "artist": "Faith No More",
+      "has_synced": false,
+      "path": "select/15_A_Small_Victory_(R-Evolution_23_(Full_Moon)_mix_edit)_Faith_No_More.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Evolution",
+      "artist": "Oleta Adams",
+      "has_synced": true,
+      "path": "select/16_Evolution_Oleta_Adams.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Evolution (And Flashback)",
+      "artist": "Gil Scott-Heron",
+      "has_synced": true,
+      "path": "select/17_Evolution_(And_Flashback)_Gil_Scott-Heron.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "A Small Victory (R-Evolution 23) [Full Moon] [Mix]",
+      "artist": "Faith No More",
+      "has_synced": false,
+      "path": "select/18_A_Small_Victory_(R-Evolution_23)_[Full_Moon]_[Mix]_Faith_No_More.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "evolution",
+      "artist": "浜崎 あゆみ",
+      "has_synced": false,
+      "path": "select/pl_01_evolution_浜崎_あゆみ.txt"
+    }
+  ]
+}
